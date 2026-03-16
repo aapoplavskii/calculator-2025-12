@@ -1,5 +1,5 @@
-
+"""Функция деления"""
 
 def division(a, b):
-    """function for division"""
+    ""a - делимое, d - делитель"""
     return a / b
